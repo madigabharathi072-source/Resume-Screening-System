@@ -1,0 +1,20 @@
+Main Features:
+
+Enter candidate name
+Enter candidate skills
+Enter required job skills
+Compare skills
+Display matching skills
+Show screening result
+
+output:
+Candidate: Lalitha
+
+Candidate Skills:
+Java, HTML, CSS, DSA
+
+Required Skills:
+Java, Python, DSA
+
+Result:
+Lalitha matches 2 required skill(s): java, dsa
